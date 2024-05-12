@@ -112,8 +112,8 @@ async def start_hndlr(c: Client, m: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("About Bot", "aboutbot"),
-                        InlineKeyboardButton("About Dev", "aboutdev")
+                        InlineKeyboardButton("DAN", "mhmdwldnnnn"),
+                        InlineKeyboardButton("Store", "Disney_storeDan")
                     ]
                 ]
             )
@@ -135,9 +135,9 @@ async def send_media_(c: Client, m: Message):
             f"**Mau kirim {'media' if not m.text else 'pesan'} kemana?**",
             reply_markup=InlineKeyboardMarkup([
                 [
-                    InlineKeyboardButton("Channel 1", "channel1"),
-                    InlineKeyboardButton("Channel 2", "channel2"),
-                    InlineKeyboardButton("Channel 3", "channel3"),
+                    InlineKeyboardButton("Channel 1", "https://t.me/+UM3KOorskkE2ZTY1"),
+                    InlineKeyboardButton("Channel 2", "https://t.me/+b7X9qhiX8uVjOTQ1"),
+                    InlineKeyboardButton("Channel 3", "https://t.me/+JFr09vBBbqwxYzY1"),
                 ]
             ]),
             quote=True

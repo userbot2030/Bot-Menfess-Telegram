@@ -22,7 +22,7 @@ async def handle_fsub(c, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Channel", c.fsub_ch_link)
+                        InlineKeyboardButton("Channel", c.fsub_ch_link=f"https://t.me/Disney_storeDan")
                     ]
                 ]
             )

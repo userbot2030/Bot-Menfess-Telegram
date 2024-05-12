@@ -1,56 +1,56 @@
 {
     "name": "Telegram Files Store Bot",
-    "description": "A Telegram Files Store Bot in Pyrogram by @AbirHasan2005",
+    "description": "A Telegram Files Store Bot in Pyrogram by @mhmdwldnnnn",
     "keywords": [
         "telegram",
         "files",
         "store",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/PyroFilesStoreBot",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://t.me/Discovery_Updates",
+    "repository": "https://github.com/userbot2030/Bot-Menfeess-Telegram",
+    "website": "https://telegram.dog/mhmdwldnnnn",
+    "success_url": "https://t.me/Disney_storeDan",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot",
-            "value": "7nnn4n1"
+            "value": "26477680"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot",
-            "value": "ef48386annnnne9e569c4a3b8"
+            "value": "b0d8504752cc1ecf52009ece2bdef0b8"
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather XD",
-            "value": "18263nnnnnnnIjl973lwcfifiLYOKwqc-HK7Lk"
+            "value": "6917853605:AAGicrlrxQ87KAjQol1H-UjlUkWNgtd5ymk"
         },
         "LOG_CHANNEL": {
             "description": "Your Bot Username which you sent to @BotFather (Without [@])",
-            "value": "-10nnnnn99"
+            "value": "-1002075430848"
         },
         "FORCESUB_CHANNEL": {
             "description": "The Channel ID which will be used as Database. Example: -100123456789",
-            "value": "-100nnnnnnnnn1083"
+            "value": "-1002111666674"
         },
         "DB_CHANNEL": {
             "description": "Bot Owner UserID",
-            "value": "-1001nnnnnmmm087"
+            "value": "5779185981"
         },
         "BLACKLISTED_CHANNEL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast.",
-            "value": "-10nnnnnmm301073"
+            "value": "-1002111666674"
         },
         "CHANNEL_1": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
-            "value": "-100nnnnnmm1083"
+            "value": "-1002051332043"
         },
         "CHANNEL_2": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789",
-            "value": "-10011nnnnmm83",
+            "value": "-1002068821846",
             "required": false
         },
         "CHANNEL_3": {
             "description": "Banned unwanted members",
-            "value": "-1001nnnnmmm083",
+            "value": "-1002000333870",
             "required": false
         }
     },
